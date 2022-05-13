@@ -1,0 +1,71 @@
+body {
+	 background-color:#E2EFF4;
+	 padding: 150px;
+
+	 font-family: 'Roboto', sans-serif;
+}
+
+
+	 h1 {
+	 	 color: darkblue;
+	 	 text-align: center;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+
+
+.big-size {
+     width:  900px;
+     height:  900px;
+     object-fit:  cover;
+}
+
+
+
+.element-center {
+	text-align:  center;
+}
+
+div {
+	background-color: #ffffff ;
+	padding-right: 50px;
+	padding-left: 50px;
+	
+}
+
+.border {
+	border: 5px solid lightpink;
+
+}
+
+p {
+	font-weight: 300 !important;
+
+}
+
+element-aligned {
+	display:  flex;
+	justify-content: space-around;
+}
+
+.navigation-aligned {
+	display:  flex;
+	justify-content: space-around;
+	padding:  30px;
+
+}
+
+a {
+   color:  black;
+   text-decoration: none;
+
+}
+
+ a:hover {
+ 	color:  lightpink;
+ 	font-size:  22px;
+}
